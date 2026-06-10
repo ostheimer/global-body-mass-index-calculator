@@ -1,0 +1,67 @@
+/*
+ * Tabs for the GBMI calculator.
+ *
+ * The active / inactive background colours come from the inline <style> block
+ * (ul.tabs a / li.ui-tabs-active a), so this file only handles layout and the
+ * active/inactive emphasis: the active tab is sharp and bold with an accent
+ * bar; the inactive tab is dimmed and slightly blurred so it clearly reads as
+ * "not selected".
+ */
+
+.gbmi-calc ul.tabs {
+	list-style: none;
+	margin: 0 !important;
+	padding: 0;
+	display: flex;
+	border: 1px solid rgba(0, 0, 0, 0.12);
+	border-bottom: none;
+	border-radius: 10px 10px 0 0;
+	overflow: hidden;
+}
+
+.gbmi-calc ul.tabs li {
+	flex: 1 1 0;
+	margin: 0 !important;
+	padding: 0;
+	text-indent: 0;
+	list-style: none !important;
+	list-style-image: none !important;
+}
+
+.gbmi-calc ul.tabs a {
+	display: block;
+	width: 100%;
+	height: auto;
+	padding: 12px 8px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: 600;
+	line-height: 1.2;
+	color: #555555;
+	/* inactive: de-emphasised and slightly blurred. */
+	opacity: 0.5;
+	filter: blur(1px);
+	transition: opacity 0.15s ease, filter 0.15s ease, color 0.15s ease;
+}
+
+.gbmi-calc ul.tabs a:hover {
+	opacity: 0.9;
+	filter: none;
+	color: #222222;
+}
+
+.gbmi-calc ul.tabs li.ui-tabs-active a {
+	/* active: sharp, bold, full contrast, with a top accent bar. */
+	opacity: 1;
+	filter: none;
+	font-weight: 700;
+	color: #111111;
+	cursor: default !important;
+	box-shadow: inset 0 3px 0 0 #2c7fb8;
+}
+
+/* Sane no-JS / pre-init state: show only the first panel until the tabs script
+   runs. jQuery UI Tabs then controls panel visibility via inline styles. */
+.gbmi-calc .panes > .tabbed:nth-child(n+2) {
+	display: none;
+}

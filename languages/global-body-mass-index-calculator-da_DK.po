@@ -1,0 +1,148 @@
+# Translation of the Global Body Mass Index Calculator plugin.
+# Language: Danish (da_DK).
+msgid ""
+msgstr ""
+"Project-Id-Version: Global Body Mass Index Calculator 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2026-06-09 22:01+0000\n"
+"Last-Translator: Machine-assisted initial translation (native review welcome)\n"
+"Language-Team: Danish\n"
+
+msgid "Your BMI is %1$s, which is in the %2$s range."
+msgstr "Dit BMI er %1$s, hvilket er i intervallet %2$s."
+
+msgid "Your child's BMI is %1$s. The percentile is %2$s, which is in the %3$s range."
+msgstr "Dit barns BMI er %1$s. Percentilen er %2$s, hvilket er i intervallet %3$s."
+
+msgid "Grown ups"
+msgstr "Voksne"
+
+msgid "Child"
+msgstr "Barn"
+
+msgid "Gender"
+msgstr "Køn"
+
+msgid "Male"
+msgstr "Mand"
+
+msgid "Female"
+msgstr "Kvinde"
+
+msgid "Height"
+msgstr "Højde"
+
+msgid "Weight"
+msgstr "Vægt"
+
+msgid "Age"
+msgstr "Alder"
+
+msgid "years"
+msgstr "år"
+
+msgid "ft"
+msgstr "fod"
+
+msgid "inches"
+msgstr "tommer"
+
+msgid "in"
+msgstr "tommer"
+
+msgid "pounds"
+msgstr "pund"
+
+msgid "Get BMI!"
+msgstr "Beregn BMI!"
+
+msgid "Get child BMI!"
+msgstr "Beregn barnets BMI!"
+
+msgid "severely underweight"
+msgstr "svært undervægtig"
+
+msgid "underweight"
+msgstr "undervægtig"
+
+msgid "normal"
+msgstr "normalvægtig"
+
+msgid "overweight"
+msgstr "overvægtig"
+
+msgid "moderately obese"
+msgstr "moderat fedme"
+
+msgid "severely obese"
+msgstr "svær fedme"
+
+msgid "Please enter a valid height and weight."
+msgstr "Indtast en gyldig højde og vægt."
+
+msgid "Enter a valid height and weight"
+msgstr "Indtast gyldig højde og vægt"
+
+msgid "Enter a valid height"
+msgstr "Indtast en gyldig højde"
+
+msgid "Enter a valid weight"
+msgstr "Indtast en gyldig vægt"
+
+msgid "Enter a valid age"
+msgstr "Indtast en gyldig alder"
+
+msgid "Child BMI calculator is only valid for children between 2 and 20 years."
+msgstr "BMI-beregneren for børn gælder kun for børn mellem 2 og 20 år."
+
+msgid "BMI Calculator"
+msgstr "BMI-beregner"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Calculator Mode"
+msgstr "Beregnertilstand"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Metric"
+msgstr "Metrisk"
+
+msgid "Size (px)"
+msgstr "Størrelse (px)"
+
+msgid "Width"
+msgstr "Bredde"
+
+msgid "Tab Color"
+msgstr "Fanefarve"
+
+msgid "Current Tab Color"
+msgstr "Aktiv fanefarve"
+
+msgid "Widget Start Background Color"
+msgstr "Widgetens startbaggrundsfarve"
+
+msgid "Widget End Background Color"
+msgstr "Widgetens slutbaggrundsfarve"
+
+msgid "Widget Text Color"
+msgstr "Widgetens tekstfarve"
+
+msgid "Backlink"
+msgstr "Tilbagelink"
+
+msgid "Allow link back to www.gesundesabnehmen.at"
+msgstr "Tillad link tilbage til www.gesundesabnehmen.at"
+
+msgid "Global Body Mass Index Calculator Settings"
+msgstr "Indstillinger for Global Body Mass Index Calculator"
+
+msgid "A Global Body Mass Index Calculator for adults and children."
+msgstr "En BMI-beregner for voksne og børn."
+

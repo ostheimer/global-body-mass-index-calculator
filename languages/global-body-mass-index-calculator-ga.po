@@ -1,0 +1,148 @@
+# Translation of the Global Body Mass Index Calculator plugin.
+# Language: Irish (ga).
+msgid ""
+msgstr ""
+"Project-Id-Version: Global Body Mass Index Calculator 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2026-06-09 22:01+0000\n"
+"Last-Translator: Machine-assisted initial translation (native review welcome)\n"
+"Language-Team: Irish\n"
+
+msgid "Your BMI is %1$s, which is in the %2$s range."
+msgstr "Is é do BMI ná %1$s, atá sa raon %2$s."
+
+msgid "Your child's BMI is %1$s. The percentile is %2$s, which is in the %3$s range."
+msgstr "Is é BMI do linbh ná %1$s. Is é an peircintíl ná %2$s, atá sa raon %3$s."
+
+msgid "Grown ups"
+msgstr "Daoine fásta"
+
+msgid "Child"
+msgstr "Leanbh"
+
+msgid "Gender"
+msgstr "Inscne"
+
+msgid "Male"
+msgstr "Fireann"
+
+msgid "Female"
+msgstr "Baineann"
+
+msgid "Height"
+msgstr "Airde"
+
+msgid "Weight"
+msgstr "Meáchan"
+
+msgid "Age"
+msgstr "Aois"
+
+msgid "years"
+msgstr "bliana"
+
+msgid "ft"
+msgstr "troigh"
+
+msgid "inches"
+msgstr "orlach"
+
+msgid "in"
+msgstr "orlach"
+
+msgid "pounds"
+msgstr "punt"
+
+msgid "Get BMI!"
+msgstr "Faigh BMI!"
+
+msgid "Get child BMI!"
+msgstr "Faigh BMI an linbh!"
+
+msgid "severely underweight"
+msgstr "tearcmheáchan trom"
+
+msgid "underweight"
+msgstr "tearcmheáchan"
+
+msgid "normal"
+msgstr "gnáthmheáchan"
+
+msgid "overweight"
+msgstr "rómheáchan"
+
+msgid "moderately obese"
+msgstr "otracht measartha"
+
+msgid "severely obese"
+msgstr "otracht throm"
+
+msgid "Please enter a valid height and weight."
+msgstr "Cuir airde agus meáchan bailí isteach."
+
+msgid "Enter a valid height and weight"
+msgstr "Cuir airde agus meáchan bailí isteach"
+
+msgid "Enter a valid height"
+msgstr "Cuir airde bhailí isteach"
+
+msgid "Enter a valid weight"
+msgstr "Cuir meáchan bailí isteach"
+
+msgid "Enter a valid age"
+msgstr "Cuir aois bhailí isteach"
+
+msgid "Child BMI calculator is only valid for children between 2 and 20 years."
+msgstr "Níl an áireamhán BMI do leanaí bailí ach do leanaí idir 2 agus 20 bliain."
+
+msgid "BMI Calculator"
+msgstr "Áireamhán BMI"
+
+msgid "Title"
+msgstr "Teideal"
+
+msgid "Calculator Mode"
+msgstr "Mód áireamháin"
+
+msgid "Standard"
+msgstr "Caighdeánach"
+
+msgid "Metric"
+msgstr "Méadrach"
+
+msgid "Size (px)"
+msgstr "Méid (px)"
+
+msgid "Width"
+msgstr "Leithead"
+
+msgid "Tab Color"
+msgstr "Dath an chluaisín"
+
+msgid "Current Tab Color"
+msgstr "Dath an chluaisín reatha"
+
+msgid "Widget Start Background Color"
+msgstr "Dath cúlra tosaigh na giuirléide"
+
+msgid "Widget End Background Color"
+msgstr "Dath cúlra deiridh na giuirléide"
+
+msgid "Widget Text Color"
+msgstr "Dath téacs na giuirléide"
+
+msgid "Backlink"
+msgstr "Cúldhnasc"
+
+msgid "Allow link back to www.gesundesabnehmen.at"
+msgstr "Ceadaigh nasc ar ais chuig www.gesundesabnehmen.at"
+
+msgid "Global Body Mass Index Calculator Settings"
+msgstr "Socruithe Global Body Mass Index Calculator"
+
+msgid "A Global Body Mass Index Calculator for adults and children."
+msgstr "Áireamhán Innéacs Mais Choirp (BMI) do dhaoine fásta agus do leanaí."
+

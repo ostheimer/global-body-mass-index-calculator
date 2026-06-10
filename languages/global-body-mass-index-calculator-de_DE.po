@@ -1,0 +1,148 @@
+# Translation of the Global Body Mass Index Calculator plugin.
+# Language: German (de_DE).
+msgid ""
+msgstr ""
+"Project-Id-Version: Global Body Mass Index Calculator 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2026-06-09 22:01+0000\n"
+"Last-Translator: Machine-assisted initial translation (native review welcome)\n"
+"Language-Team: German\n"
+
+msgid "Your BMI is %1$s, which is in the %2$s range."
+msgstr "Ihr BMI ist %1$s und liegt damit im Bereich %2$s."
+
+msgid "Your child's BMI is %1$s. The percentile is %2$s, which is in the %3$s range."
+msgstr "Der BMI Ihres Kindes ist %1$s. Das Perzentil ist %2$s und liegt damit im Bereich %3$s."
+
+msgid "Grown ups"
+msgstr "Erwachsene"
+
+msgid "Child"
+msgstr "Kinder"
+
+msgid "Gender"
+msgstr "Geschlecht"
+
+msgid "Male"
+msgstr "männlich"
+
+msgid "Female"
+msgstr "weiblich"
+
+msgid "Height"
+msgstr "Größe"
+
+msgid "Weight"
+msgstr "Gewicht"
+
+msgid "Age"
+msgstr "Alter"
+
+msgid "years"
+msgstr "Jahre"
+
+msgid "ft"
+msgstr "Fuß"
+
+msgid "inches"
+msgstr "Zoll"
+
+msgid "in"
+msgstr "Zoll"
+
+msgid "pounds"
+msgstr "Pfund"
+
+msgid "Get BMI!"
+msgstr "BMI berechnen!"
+
+msgid "Get child BMI!"
+msgstr "Kinder-BMI berechnen!"
+
+msgid "severely underweight"
+msgstr "Schweres Untergewicht"
+
+msgid "underweight"
+msgstr "Untergewicht"
+
+msgid "normal"
+msgstr "Normalgewicht"
+
+msgid "overweight"
+msgstr "Übergewicht"
+
+msgid "moderately obese"
+msgstr "Hohes Übergewicht"
+
+msgid "severely obese"
+msgstr "Sehr hohes Übergewicht"
+
+msgid "Please enter a valid height and weight."
+msgstr "Bitte geben Sie eine gültige Größe und Gewicht ein."
+
+msgid "Enter a valid height and weight"
+msgstr "Geben Sie eine gültige Größe und Gewicht ein"
+
+msgid "Enter a valid height"
+msgstr "Geben Sie eine gültige Größe ein"
+
+msgid "Enter a valid weight"
+msgstr "Geben Sie ein gültiges Gewicht ein"
+
+msgid "Enter a valid age"
+msgstr "Geben Sie ein gültiges Alter an"
+
+msgid "Child BMI calculator is only valid for children between 2 and 20 years."
+msgstr "Der BMI Rechner für Kinder ist nur im Altersbereich 2-20 gültig."
+
+msgid "BMI Calculator"
+msgstr "BMI Rechner"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Calculator Mode"
+msgstr "Berechnungsmodus"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Metric"
+msgstr "Metrisch"
+
+msgid "Size (px)"
+msgstr "Größe (px)"
+
+msgid "Width"
+msgstr "Breite"
+
+msgid "Tab Color"
+msgstr "Tab-Farbe"
+
+msgid "Current Tab Color"
+msgstr "Farbe des aktiven Tabs"
+
+msgid "Widget Start Background Color"
+msgstr "Anfangs-Hintergrundfarbe des Widgets"
+
+msgid "Widget End Background Color"
+msgstr "End-Hintergrundfarbe des Widgets"
+
+msgid "Widget Text Color"
+msgstr "Textfarbe des Widgets"
+
+msgid "Backlink"
+msgstr "Backlink"
+
+msgid "Allow link back to www.gesundesabnehmen.at"
+msgstr "Link zurück zu www.gesundesabnehmen.at erlauben"
+
+msgid "Global Body Mass Index Calculator Settings"
+msgstr "Einstellungen für Global Body Mass Index Calculator"
+
+msgid "A Global Body Mass Index Calculator for adults and children."
+msgstr "Ein Body-Mass-Index-Rechner (BMI) für Erwachsene und Kinder."
+

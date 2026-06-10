@@ -1,0 +1,17 @@
+# Files and folders that must NOT be deployed to the WordPress.org SVN trunk.
+# Used by bin/sync-dist.sh to build a clean plugin copy for Plugin Check / SVN.
+.git
+.github
+.claude
+.playwright-mcp
+.wporg-assets
+.wp-env.json
+.wp-dist
+.distignore
+.gitignore
+.editorconfig
+bin
+node_modules
+*.zip
+*.log
+gbmi-shipping.png

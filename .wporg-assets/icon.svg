@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="BMI Calculator">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2c7fb8"/>
+      <stop offset="1" stop-color="#1b5d8a"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="256" rx="54" fill="url(#bg)"/>
+
+  <!-- BMI gauge: underweight / normal / overweight / obese arcs -->
+  <g fill="none" stroke-width="22" stroke-linecap="round">
+    <path d="M 64 140 A 64 64 0 0 1 82.75 94.75" stroke="#7cc0e6"/>
+    <path d="M 82.75 94.75 A 64 64 0 0 1 128 76" stroke="#46b56f"/>
+    <path d="M 128 76 A 64 64 0 0 1 173.25 94.75" stroke="#f2b134"/>
+    <path d="M 173.25 94.75 A 64 64 0 0 1 192 140" stroke="#e3573f"/>
+  </g>
+
+  <!-- needle pointing into the healthy range + hub -->
+  <line x1="128" y1="140" x2="101" y2="82" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="128" cy="140" r="9" fill="#ffffff"/>
+
+  <text x="128" y="200" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#ffffff" letter-spacing="1">BMI</text>
+</svg>

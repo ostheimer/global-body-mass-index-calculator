@@ -1,0 +1,148 @@
+/*
+ * Global Body Mass Index Calculator - front-end styles.
+ *
+ * Everything is scoped under .gbmi-calc so it stays isolated from the theme and
+ * so several calculators can share a page. The per-instance colours (card
+ * background, text, tab and button colours) are injected as an inline <style>
+ * block scoped to each instance's id by the renderer and are meant to win over
+ * the neutral defaults below, so this file never sets those properties.
+ */
+
+.gbmi-calc {
+	max-width: 100%;
+	box-sizing: border-box;
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.45;
+}
+
+.gbmi-calc *,
+.gbmi-calc *::before,
+.gbmi-calc *::after {
+	box-sizing: border-box;
+}
+
+/* Widget title, shown once above the tabs. */
+.gbmi-calc .gbmi-title {
+	margin: 0 0 10px;
+	padding: 0;
+	font-size: 1.2em;
+	font-weight: 700;
+	line-height: 1.25;
+}
+
+.gbmi-calc .gbmi_div {
+	padding: 18px;
+	margin: 0;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	border-top: none;
+	border-radius: 0 0 10px 10px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+.gbmi-calc .gbmi-infotext {
+	margin: 0 0 16px;
+	padding: 0;
+	font-size: 0.82em;
+	font-weight: 400;
+	opacity: 0.8;
+}
+
+/* Each input row: label sits on its own line above the field(s). */
+.gbmi-calc .gbmi-row {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 4px 8px;
+	margin: 0 0 14px;
+}
+
+.gbmi-calc label {
+	flex: 1 1 100%;
+	margin: 0 0 2px;
+	font-weight: 600;
+	font-size: 0.92em;
+}
+
+.gbmi-calc .input_fw {
+	width: 96px;
+	padding: 8px 10px;
+	border: 1px solid #c7c7c7;
+	border-radius: 7px;
+	background: #fff;
+	color: #1a1a1a;
+	font-size: 1em;
+}
+
+.gbmi-calc .gbmi-narrow {
+	width: 66px;
+}
+
+.gbmi-calc .gbmi-unit {
+	margin-left: 6px;
+	font-size: 0.9em;
+}
+
+.gbmi-calc select {
+	flex: 1 1 100%;
+	width: 100%;
+	padding: 8px 10px;
+	border: 1px solid #c7c7c7;
+	border-radius: 7px;
+	background: #fff;
+	color: #1a1a1a;
+	font-size: 1em;
+}
+
+.gbmi-calc input:focus,
+.gbmi-calc select:focus {
+	outline: none;
+	border-color: #2c7fb8;
+	box-shadow: 0 0 0 3px rgba(44, 127, 184, 0.25);
+}
+
+.gbmi-calc .gbmi-actions {
+	margin-top: 2px;
+}
+
+.gbmi-calc .bmisubmit {
+	display: block;
+	width: 100%;
+	cursor: pointer;
+	border: none;
+	border-radius: 8px;
+	padding: 11px 16px;
+	background: #246a9c;
+	color: #ffffff;
+	font-size: 1em;
+	font-weight: 600;
+	transition: filter 0.15s ease, transform 0.05s ease;
+}
+
+.gbmi-calc .bmisubmit:hover {
+	filter: brightness(0.9);
+}
+
+.gbmi-calc .bmisubmit:active {
+	transform: translateY(1px);
+}
+
+.gbmi-calc .gbmi-credit {
+	margin: 10px 0 0;
+	font-size: 0.8em;
+	text-align: center;
+	opacity: 0.8;
+}
+
+.gbmi-calc .gbmi-result,
+.gbmi-calc .gbmi-child-result {
+	display: none; /* revealed by the calculator JS (.fadeIn) when a result exists */
+	margin-top: 14px;
+	padding: 12px 14px;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	border-radius: 8px;
+	background: #ffffff;
+	color: #1a1a1a;
+	font-size: 0.95em;
+}

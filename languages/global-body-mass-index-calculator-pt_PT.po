@@ -1,0 +1,148 @@
+# Translation of the Global Body Mass Index Calculator plugin.
+# Language: Portuguese (pt_PT).
+msgid ""
+msgstr ""
+"Project-Id-Version: Global Body Mass Index Calculator 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2026-06-09 22:01+0000\n"
+"Last-Translator: Machine-assisted initial translation (native review welcome)\n"
+"Language-Team: Portuguese\n"
+
+msgid "Your BMI is %1$s, which is in the %2$s range."
+msgstr "O seu IMC é %1$s, que está na categoria %2$s."
+
+msgid "Your child's BMI is %1$s. The percentile is %2$s, which is in the %3$s range."
+msgstr "O IMC do seu filho é %1$s. O percentil é %2$s, que está na categoria %3$s."
+
+msgid "Grown ups"
+msgstr "Adultos"
+
+msgid "Child"
+msgstr "Criança"
+
+msgid "Gender"
+msgstr "Sexo"
+
+msgid "Male"
+msgstr "Masculino"
+
+msgid "Female"
+msgstr "Feminino"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Weight"
+msgstr "Peso"
+
+msgid "Age"
+msgstr "Idade"
+
+msgid "years"
+msgstr "anos"
+
+msgid "ft"
+msgstr "pés"
+
+msgid "inches"
+msgstr "polegadas"
+
+msgid "in"
+msgstr "polegadas"
+
+msgid "pounds"
+msgstr "libras"
+
+msgid "Get BMI!"
+msgstr "Calcular IMC!"
+
+msgid "Get child BMI!"
+msgstr "Calcular IMC da criança!"
+
+msgid "severely underweight"
+msgstr "baixo peso grave"
+
+msgid "underweight"
+msgstr "baixo peso"
+
+msgid "normal"
+msgstr "peso normal"
+
+msgid "overweight"
+msgstr "excesso de peso"
+
+msgid "moderately obese"
+msgstr "obesidade moderada"
+
+msgid "severely obese"
+msgstr "obesidade grave"
+
+msgid "Please enter a valid height and weight."
+msgstr "Introduza uma altura e um peso válidos."
+
+msgid "Enter a valid height and weight"
+msgstr "Introduza uma altura e um peso válidos"
+
+msgid "Enter a valid height"
+msgstr "Introduza uma altura válida"
+
+msgid "Enter a valid weight"
+msgstr "Introduza um peso válido"
+
+msgid "Enter a valid age"
+msgstr "Introduza uma idade válida"
+
+msgid "Child BMI calculator is only valid for children between 2 and 20 years."
+msgstr "A calculadora de IMC infantil só é válida para crianças entre os 2 e os 20 anos."
+
+msgid "BMI Calculator"
+msgstr "Calculadora de IMC"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Calculator Mode"
+msgstr "Modo da calculadora"
+
+msgid "Standard"
+msgstr "Padrão"
+
+msgid "Metric"
+msgstr "Métrico"
+
+msgid "Size (px)"
+msgstr "Tamanho (px)"
+
+msgid "Width"
+msgstr "Largura"
+
+msgid "Tab Color"
+msgstr "Cor do separador"
+
+msgid "Current Tab Color"
+msgstr "Cor do separador atual"
+
+msgid "Widget Start Background Color"
+msgstr "Cor de fundo inicial do widget"
+
+msgid "Widget End Background Color"
+msgstr "Cor de fundo final do widget"
+
+msgid "Widget Text Color"
+msgstr "Cor do texto do widget"
+
+msgid "Backlink"
+msgstr "Hiperligação de retorno"
+
+msgid "Allow link back to www.gesundesabnehmen.at"
+msgstr "Permitir ligação de retorno a www.gesundesabnehmen.at"
+
+msgid "Global Body Mass Index Calculator Settings"
+msgstr "Definições do Global Body Mass Index Calculator"
+
+msgid "A Global Body Mass Index Calculator for adults and children."
+msgstr "Uma calculadora do Índice de Massa Corporal (IMC) para adultos e crianças."
+

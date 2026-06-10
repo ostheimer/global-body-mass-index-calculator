@@ -1,0 +1,301 @@
+# Copyright (C) 2026 helpstring
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Global Body Mass Index Calculator 1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/global-body-mass-index-calculator\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-06-09T22:01:33+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: global-body-mass-index-calculator\n"
+
+#. Plugin Name of the plugin
+#: gbmicalc.php
+msgid "Global Body Mass Index Calculator"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: gbmicalc.php
+msgid "https://www.ostheimer.at/global-body-mass-index-calculator-wordpress-plugin/"
+msgstr ""
+
+#. Description of the plugin
+#: gbmicalc.php
+msgid "BMI calculator for adults and children, available as a widget and via the [gbmicalc] shortcode, with a localizable, colour-customisable interface."
+msgstr ""
+
+#. Author of the plugin
+#: gbmicalc.php
+msgid "helpstring"
+msgstr ""
+
+#. Author URI of the plugin
+#: gbmicalc.php
+msgid "https://www.ostheimer.at/"
+msgstr ""
+
+#: includes/class-gbmi-calc-widget.php:23
+#: includes/class-gbmi-calculator.php:48
+#: includes/class-gbmi-calculator.php:451
+msgid "BMI Calculator"
+msgstr ""
+
+#: includes/class-gbmi-calc-widget.php:25
+msgid "A Global Body Mass Index Calculator for adults and children."
+msgstr ""
+
+#: includes/class-gbmi-calc-widget.php:67
+#: includes/class-gbmi-calculator.php:501
+msgid "Title"
+msgstr ""
+
+#: includes/class-gbmi-calc-widget.php:74
+#: includes/class-gbmi-calculator.php:508
+msgid "Calculator Mode"
+msgstr ""
+
+#: includes/class-gbmi-calc-widget.php:78
+msgid "Standard"
+msgstr ""
+
+#: includes/class-gbmi-calc-widget.php:79
+msgid "Metric"
+msgstr ""
+
+#: includes/class-gbmi-calc-widget.php:83
+#: includes/class-gbmi-calculator.php:319
+#: includes/class-gbmi-calculator.php:329
+#: includes/class-gbmi-calculator.php:368
+msgid "Height"
+msgstr ""
+
+#: includes/class-gbmi-calc-widget.php:88
+msgid "Width"
+msgstr ""
+
+#: includes/class-gbmi-calc-widget.php:113
+#: includes/class-gbmi-calculator.php:544
+msgid "Show an optional credit link to www.gesundesabnehmen.at"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:119
+msgid "Background (top)"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:120
+msgid "Background (bottom)"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:121
+msgid "Text"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:122
+msgid "Button"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:123
+msgid "Inactive tab"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:124
+msgid "Active tab"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:200
+msgid "severely underweight"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:201
+#: includes/class-gbmi-calculator.php:220
+msgid "underweight"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:202
+#: includes/class-gbmi-calculator.php:221
+msgid "normal"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:203
+#: includes/class-gbmi-calculator.php:222
+msgid "overweight"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:204
+#: includes/class-gbmi-calculator.php:223
+msgid "moderately obese"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:205
+msgid "severely obese"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:206
+msgid "Please enter a valid height and weight."
+msgstr ""
+
+#. translators: %1$s: BMI value, %2$s: weight-status category (e.g. "normal").
+#: includes/class-gbmi-calculator.php:208
+#, php-format
+msgid "Your BMI is %1$s, which is in the %2$s range."
+msgstr ""
+
+#. translators: %1$s: BMI value, %2$s: percentile, %3$s: weight-status category.
+#: includes/class-gbmi-calculator.php:225
+#, php-format
+msgid "Your child's BMI is %1$s. The percentile is %2$s, which is in the %3$s range."
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:226
+msgid "Enter a valid height and weight"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:227
+msgid "Enter a valid height"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:228
+msgid "Enter a valid weight"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:229
+msgid "Enter a valid age"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:303
+msgid "Grown ups"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:304
+msgid "Child"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:311
+#: includes/class-gbmi-calculator.php:352
+msgid "Gender"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:313
+#: includes/class-gbmi-calculator.php:354
+msgid "Male"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:314
+#: includes/class-gbmi-calculator.php:355
+msgid "Female"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:320
+msgid "ft"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:321
+#: includes/class-gbmi-calculator.php:371
+msgid "inches"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:321
+msgid "in"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:324
+#: includes/class-gbmi-calculator.php:333
+#: includes/class-gbmi-calculator.php:379
+msgid "Weight"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:325
+#: includes/class-gbmi-calculator.php:382
+msgid "pounds"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:330
+#: includes/class-gbmi-calculator.php:374
+msgid "cm"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:334
+#: includes/class-gbmi-calculator.php:385
+msgid "kg"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:338
+msgid "Get BMI!"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:341
+msgid "by gesundesabnehmen.at"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:348
+msgid "Child BMI calculator is only valid for children between 2 and 20 years."
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:359
+msgid "Age"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:359
+msgid "years"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:391
+msgid "Get child BMI!"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:450
+msgid "Global Body Mass Index Calculator Settings"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:492
+msgid "Add the calculator to a post or page with the shortcode"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:494
+msgid "or add the “BMI Calculator” widget/block to a widget area. The options below are the defaults; individual widgets can override them."
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:504
+msgid "Shown once as a heading above the tabs. Leave blank to hide it."
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:511
+msgid "Standard (feet, inches, pounds)"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:512
+msgid "Metric (centimetres, kilograms)"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:517
+msgid "Size"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:519
+msgid "Height (px)"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:522
+msgid "Width (px)"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:524
+msgid "Leave Height blank for automatic height. Width defaults to 380px and scales down on small screens."
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:528
+msgid "Colours"
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:536
+msgid "The two background colours form a top-to-bottom gradient."
+msgstr ""
+
+#: includes/class-gbmi-calculator.php:540
+msgid "Backlink"
+msgstr ""

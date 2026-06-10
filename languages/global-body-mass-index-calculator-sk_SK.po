@@ -1,0 +1,148 @@
+# Translation of the Global Body Mass Index Calculator plugin.
+# Language: Slovak (sk_SK).
+msgid ""
+msgstr ""
+"Project-Id-Version: Global Body Mass Index Calculator 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2026-06-09 22:01+0000\n"
+"Last-Translator: Machine-assisted initial translation (native review welcome)\n"
+"Language-Team: Slovak\n"
+
+msgid "Your BMI is %1$s, which is in the %2$s range."
+msgstr "Vaše BMI je %1$s, čo je v pásme %2$s."
+
+msgid "Your child's BMI is %1$s. The percentile is %2$s, which is in the %3$s range."
+msgstr "BMI vášho dieťaťa je %1$s. Percentil je %2$s, čo je v pásme %3$s."
+
+msgid "Grown ups"
+msgstr "Dospelí"
+
+msgid "Child"
+msgstr "Dieťa"
+
+msgid "Gender"
+msgstr "Pohlavie"
+
+msgid "Male"
+msgstr "Muž"
+
+msgid "Female"
+msgstr "Žena"
+
+msgid "Height"
+msgstr "Výška"
+
+msgid "Weight"
+msgstr "Hmotnosť"
+
+msgid "Age"
+msgstr "Vek"
+
+msgid "years"
+msgstr "rokov"
+
+msgid "ft"
+msgstr "stopy"
+
+msgid "inches"
+msgstr "palce"
+
+msgid "in"
+msgstr "palce"
+
+msgid "pounds"
+msgstr "libry"
+
+msgid "Get BMI!"
+msgstr "Vypočítať BMI!"
+
+msgid "Get child BMI!"
+msgstr "Vypočítať BMI dieťaťa!"
+
+msgid "severely underweight"
+msgstr "ťažká podváha"
+
+msgid "underweight"
+msgstr "podváha"
+
+msgid "normal"
+msgstr "normálna váha"
+
+msgid "overweight"
+msgstr "nadváha"
+
+msgid "moderately obese"
+msgstr "mierna obezita"
+
+msgid "severely obese"
+msgstr "ťažká obezita"
+
+msgid "Please enter a valid height and weight."
+msgstr "Zadajte platnú výšku a hmotnosť."
+
+msgid "Enter a valid height and weight"
+msgstr "Zadajte platnú výšku a hmotnosť"
+
+msgid "Enter a valid height"
+msgstr "Zadajte platnú výšku"
+
+msgid "Enter a valid weight"
+msgstr "Zadajte platnú hmotnosť"
+
+msgid "Enter a valid age"
+msgstr "Zadajte platný vek"
+
+msgid "Child BMI calculator is only valid for children between 2 and 20 years."
+msgstr "Kalkulačka detského BMI platí len pre deti od 2 do 20 rokov."
+
+msgid "BMI Calculator"
+msgstr "BMI kalkulačka"
+
+msgid "Title"
+msgstr "Názov"
+
+msgid "Calculator Mode"
+msgstr "Režim kalkulačky"
+
+msgid "Standard"
+msgstr "Štandardná"
+
+msgid "Metric"
+msgstr "Metrická"
+
+msgid "Size (px)"
+msgstr "Veľkosť (px)"
+
+msgid "Width"
+msgstr "Šírka"
+
+msgid "Tab Color"
+msgstr "Farba karty"
+
+msgid "Current Tab Color"
+msgstr "Farba aktívnej karty"
+
+msgid "Widget Start Background Color"
+msgstr "Počiatočná farba pozadia widgetu"
+
+msgid "Widget End Background Color"
+msgstr "Koncová farba pozadia widgetu"
+
+msgid "Widget Text Color"
+msgstr "Farba textu widgetu"
+
+msgid "Backlink"
+msgstr "Spätný odkaz"
+
+msgid "Allow link back to www.gesundesabnehmen.at"
+msgstr "Povoliť spätný odkaz na www.gesundesabnehmen.at"
+
+msgid "Global Body Mass Index Calculator Settings"
+msgstr "Nastavenia Global Body Mass Index Calculator"
+
+msgid "A Global Body Mass Index Calculator for adults and children."
+msgstr "Kalkulačka indexu telesnej hmotnosti (BMI) pre dospelých a deti."
+

@@ -1,0 +1,148 @@
+# Translation of the Global Body Mass Index Calculator plugin.
+# Language: Estonian (et).
+msgid ""
+msgstr ""
+"Project-Id-Version: Global Body Mass Index Calculator 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2026-06-09 22:01+0000\n"
+"Last-Translator: Machine-assisted initial translation (native review welcome)\n"
+"Language-Team: Estonian\n"
+
+msgid "Your BMI is %1$s, which is in the %2$s range."
+msgstr "Teie KMI on %1$s, mis jääb vahemikku %2$s."
+
+msgid "Your child's BMI is %1$s. The percentile is %2$s, which is in the %3$s range."
+msgstr "Teie lapse KMI on %1$s. Protsentiil on %2$s, mis jääb vahemikku %3$s."
+
+msgid "Grown ups"
+msgstr "Täiskasvanud"
+
+msgid "Child"
+msgstr "Laps"
+
+msgid "Gender"
+msgstr "Sugu"
+
+msgid "Male"
+msgstr "Mees"
+
+msgid "Female"
+msgstr "Naine"
+
+msgid "Height"
+msgstr "Pikkus"
+
+msgid "Weight"
+msgstr "Kaal"
+
+msgid "Age"
+msgstr "Vanus"
+
+msgid "years"
+msgstr "aastat"
+
+msgid "ft"
+msgstr "jalga"
+
+msgid "inches"
+msgstr "tolli"
+
+msgid "in"
+msgstr "tolli"
+
+msgid "pounds"
+msgstr "naela"
+
+msgid "Get BMI!"
+msgstr "Arvuta KMI!"
+
+msgid "Get child BMI!"
+msgstr "Arvuta lapse KMI!"
+
+msgid "severely underweight"
+msgstr "tugev alakaal"
+
+msgid "underweight"
+msgstr "alakaal"
+
+msgid "normal"
+msgstr "normaalkaal"
+
+msgid "overweight"
+msgstr "ülekaal"
+
+msgid "moderately obese"
+msgstr "mõõdukas rasvumine"
+
+msgid "severely obese"
+msgstr "raske rasvumine"
+
+msgid "Please enter a valid height and weight."
+msgstr "Sisestage kehtiv pikkus ja kaal."
+
+msgid "Enter a valid height and weight"
+msgstr "Sisestage kehtiv pikkus ja kaal"
+
+msgid "Enter a valid height"
+msgstr "Sisestage kehtiv pikkus"
+
+msgid "Enter a valid weight"
+msgstr "Sisestage kehtiv kaal"
+
+msgid "Enter a valid age"
+msgstr "Sisestage kehtiv vanus"
+
+msgid "Child BMI calculator is only valid for children between 2 and 20 years."
+msgstr "Lapse KMI kalkulaator kehtib ainult 2–20-aastastele lastele."
+
+msgid "BMI Calculator"
+msgstr "KMI kalkulaator"
+
+msgid "Title"
+msgstr "Pealkiri"
+
+msgid "Calculator Mode"
+msgstr "Kalkulaatori režiim"
+
+msgid "Standard"
+msgstr "Standardne"
+
+msgid "Metric"
+msgstr "Meetermõõdustik"
+
+msgid "Size (px)"
+msgstr "Suurus (px)"
+
+msgid "Width"
+msgstr "Laius"
+
+msgid "Tab Color"
+msgstr "Vahekaardi värv"
+
+msgid "Current Tab Color"
+msgstr "Aktiivse vahekaardi värv"
+
+msgid "Widget Start Background Color"
+msgstr "Vidina algustausta värv"
+
+msgid "Widget End Background Color"
+msgstr "Vidina lõpptausta värv"
+
+msgid "Widget Text Color"
+msgstr "Vidina teksti värv"
+
+msgid "Backlink"
+msgstr "Tagasilink"
+
+msgid "Allow link back to www.gesundesabnehmen.at"
+msgstr "Luba tagasilink saidile www.gesundesabnehmen.at"
+
+msgid "Global Body Mass Index Calculator Settings"
+msgstr "Global Body Mass Index Calculator seaded"
+
+msgid "A Global Body Mass Index Calculator for adults and children."
+msgstr "Kehamassiindeksi (KMI) kalkulaator täiskasvanutele ja lastele."
+

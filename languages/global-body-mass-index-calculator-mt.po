@@ -1,0 +1,148 @@
+# Translation of the Global Body Mass Index Calculator plugin.
+# Language: Maltese (mt).
+msgid ""
+msgstr ""
+"Project-Id-Version: Global Body Mass Index Calculator 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2026-06-09 22:01+0000\n"
+"Last-Translator: Machine-assisted initial translation (native review welcome)\n"
+"Language-Team: Maltese\n"
+
+msgid "Your BMI is %1$s, which is in the %2$s range."
+msgstr "Il-BMI tiegħek huwa %1$s, li jaqa' fil-kategorija %2$s."
+
+msgid "Your child's BMI is %1$s. The percentile is %2$s, which is in the %3$s range."
+msgstr "Il-BMI tat-tifel tiegħek huwa %1$s. Il-persentil huwa %2$s, li jaqa' fil-kategorija %3$s."
+
+msgid "Grown ups"
+msgstr "Adulti"
+
+msgid "Child"
+msgstr "Tifel"
+
+msgid "Gender"
+msgstr "Sess"
+
+msgid "Male"
+msgstr "Raġel"
+
+msgid "Female"
+msgstr "Mara"
+
+msgid "Height"
+msgstr "Għoli"
+
+msgid "Weight"
+msgstr "Piż"
+
+msgid "Age"
+msgstr "Età"
+
+msgid "years"
+msgstr "snin"
+
+msgid "ft"
+msgstr "pied"
+
+msgid "inches"
+msgstr "pulzieri"
+
+msgid "in"
+msgstr "pulzieri"
+
+msgid "pounds"
+msgstr "liri"
+
+msgid "Get BMI!"
+msgstr "Ikkalkula l-BMI!"
+
+msgid "Get child BMI!"
+msgstr "Ikkalkula l-BMI tat-tifel!"
+
+msgid "severely underweight"
+msgstr "piż baxx ħafna"
+
+msgid "underweight"
+msgstr "piż baxx"
+
+msgid "normal"
+msgstr "piż normali"
+
+msgid "overweight"
+msgstr "piż żejjed"
+
+msgid "moderately obese"
+msgstr "obeżità moderata"
+
+msgid "severely obese"
+msgstr "obeżità severa"
+
+msgid "Please enter a valid height and weight."
+msgstr "Jekk jogħġbok daħħal għoli u piż validu."
+
+msgid "Enter a valid height and weight"
+msgstr "Daħħal għoli u piż validu"
+
+msgid "Enter a valid height"
+msgstr "Daħħal għoli validu"
+
+msgid "Enter a valid weight"
+msgstr "Daħħal piż validu"
+
+msgid "Enter a valid age"
+msgstr "Daħħal età valida"
+
+msgid "Child BMI calculator is only valid for children between 2 and 20 years."
+msgstr "Il-kalkulatur tal-BMI tat-tfal huwa validu biss għal tfal bejn 2 u 20 sena."
+
+msgid "BMI Calculator"
+msgstr "Kalkulatur tal-BMI"
+
+msgid "Title"
+msgstr "Titlu"
+
+msgid "Calculator Mode"
+msgstr "Modalità tal-kalkulatur"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Metric"
+msgstr "Metriku"
+
+msgid "Size (px)"
+msgstr "Daqs (px)"
+
+msgid "Width"
+msgstr "Wisa"
+
+msgid "Tab Color"
+msgstr "Kulur tat-tab"
+
+msgid "Current Tab Color"
+msgstr "Kulur tat-tab attwali"
+
+msgid "Widget Start Background Color"
+msgstr "Kulur tal-isfond tal-bidu tal-widget"
+
+msgid "Widget End Background Color"
+msgstr "Kulur tal-isfond tat-tmiem tal-widget"
+
+msgid "Widget Text Color"
+msgstr "Kulur tat-test tal-widget"
+
+msgid "Backlink"
+msgstr "Backlink"
+
+msgid "Allow link back to www.gesundesabnehmen.at"
+msgstr "Ippermetti link lura għal www.gesundesabnehmen.at"
+
+msgid "Global Body Mass Index Calculator Settings"
+msgstr "Settings ta’ Global Body Mass Index Calculator"
+
+msgid "A Global Body Mass Index Calculator for adults and children."
+msgstr "Kalkulatur tal-Indiċi tal-Massa tal-Ġisem (BMI) għall-adulti u t-tfal."
+

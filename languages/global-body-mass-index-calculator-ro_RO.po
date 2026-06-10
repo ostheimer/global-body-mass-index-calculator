@@ -1,0 +1,148 @@
+# Translation of the Global Body Mass Index Calculator plugin.
+# Language: Romanian (ro_RO).
+msgid ""
+msgstr ""
+"Project-Id-Version: Global Body Mass Index Calculator 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2026-06-09 22:01+0000\n"
+"Last-Translator: Machine-assisted initial translation (native review welcome)\n"
+"Language-Team: Romanian\n"
+
+msgid "Your BMI is %1$s, which is in the %2$s range."
+msgstr "IMC-ul tău este %1$s, ceea ce se încadrează în categoria %2$s."
+
+msgid "Your child's BMI is %1$s. The percentile is %2$s, which is in the %3$s range."
+msgstr "IMC-ul copilului dvs. este %1$s. Percentila este %2$s, ceea ce se încadrează în categoria %3$s."
+
+msgid "Grown ups"
+msgstr "Adulți"
+
+msgid "Child"
+msgstr "Copil"
+
+msgid "Gender"
+msgstr "Sex"
+
+msgid "Male"
+msgstr "Bărbat"
+
+msgid "Female"
+msgstr "Femeie"
+
+msgid "Height"
+msgstr "Înălțime"
+
+msgid "Weight"
+msgstr "Greutate"
+
+msgid "Age"
+msgstr "Vârstă"
+
+msgid "years"
+msgstr "ani"
+
+msgid "ft"
+msgstr "picioare"
+
+msgid "inches"
+msgstr "inci"
+
+msgid "in"
+msgstr "inci"
+
+msgid "pounds"
+msgstr "livre"
+
+msgid "Get BMI!"
+msgstr "Calculează IMC!"
+
+msgid "Get child BMI!"
+msgstr "Calculează IMC copil!"
+
+msgid "severely underweight"
+msgstr "subponderal sever"
+
+msgid "underweight"
+msgstr "subponderal"
+
+msgid "normal"
+msgstr "normal"
+
+msgid "overweight"
+msgstr "supraponderal"
+
+msgid "moderately obese"
+msgstr "obezitate moderată"
+
+msgid "severely obese"
+msgstr "obezitate severă"
+
+msgid "Please enter a valid height and weight."
+msgstr "Introduceți o înălțime și o greutate valide."
+
+msgid "Enter a valid height and weight"
+msgstr "Introduceți o înălțime și o greutate valide"
+
+msgid "Enter a valid height"
+msgstr "Introduceți o înălțime validă"
+
+msgid "Enter a valid weight"
+msgstr "Introduceți o greutate validă"
+
+msgid "Enter a valid age"
+msgstr "Introduceți o vârstă validă"
+
+msgid "Child BMI calculator is only valid for children between 2 and 20 years."
+msgstr "Calculatorul IMC pentru copii este valabil doar pentru copii între 2 și 20 de ani."
+
+msgid "BMI Calculator"
+msgstr "Calculator IMC"
+
+msgid "Title"
+msgstr "Titlu"
+
+msgid "Calculator Mode"
+msgstr "Mod calculator"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Metric"
+msgstr "Metric"
+
+msgid "Size (px)"
+msgstr "Dimensiune (px)"
+
+msgid "Width"
+msgstr "Lățime"
+
+msgid "Tab Color"
+msgstr "Culoarea filei"
+
+msgid "Current Tab Color"
+msgstr "Culoarea filei curente"
+
+msgid "Widget Start Background Color"
+msgstr "Culoarea de fundal inițială a widgetului"
+
+msgid "Widget End Background Color"
+msgstr "Culoarea de fundal finală a widgetului"
+
+msgid "Widget Text Color"
+msgstr "Culoarea textului widgetului"
+
+msgid "Backlink"
+msgstr "Backlink"
+
+msgid "Allow link back to www.gesundesabnehmen.at"
+msgstr "Permite linkul către www.gesundesabnehmen.at"
+
+msgid "Global Body Mass Index Calculator Settings"
+msgstr "Setări Global Body Mass Index Calculator"
+
+msgid "A Global Body Mass Index Calculator for adults and children."
+msgstr "Un calculator al indicelui de masă corporală (IMC) pentru adulți și copii."
+
