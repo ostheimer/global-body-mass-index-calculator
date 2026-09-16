@@ -24,6 +24,7 @@ rsync -a --delete \
 	--exclude='*.zip' \
 	--exclude='*.log' \
 	--exclude='gbmi-shipping.png' \
+	--exclude='ROADMAP.md' \
 	"$ROOT/" "$DEST/"
 
 echo "Synced clean plugin to $DEST"
