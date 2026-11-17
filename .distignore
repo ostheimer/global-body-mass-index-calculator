@@ -16,3 +16,5 @@ node_modules
 *.log
 gbmi-shipping.png
 ROADMAP.md
+AGENTS.md
+CLAUDE.md
